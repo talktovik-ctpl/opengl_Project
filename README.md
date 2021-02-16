@@ -1,2 +1,2 @@
-# opengl_Project
-A drawing app with the help of openGL with the help of cpp/c#
+This app would be drawing app for the training.
+using opengl with cpp/cpp
