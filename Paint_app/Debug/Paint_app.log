@@ -1,0 +1,39 @@
+﻿  Paint.cpp
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(73,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(80,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(92,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(92,17): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(93,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(93,17): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(117,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(142,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(236,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(237,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(243,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(243,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(422,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(442,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(444,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(445,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(446,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(450,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(452,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(455,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(458,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(462,9): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(466,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(468,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(469,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(475,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(476,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(476,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(477,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(477,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(478,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(479,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(479,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(480,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(480,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(419,17): warning C4101: 'y': unreferenced local variable
+C:\Users\Vikas\Desktop\Review\Paint_app\Paint.cpp(419,9): warning C4101: 'x': unreferenced local variable
+  Paint_app.vcxproj -> C:\Users\Vikas\Desktop\Review\Paint_app\Debug\Paint_app.exe
